@@ -1,0 +1,21 @@
+<h2>Cocktails</h2>
+<button type="button">Get cocktails</button>
+<div class='table-responsive'>
+    <table class='table'>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Image</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let cocktail of cocktails;">
+                <td>{{cocktail.cocktailName}}</td>
+                <td>{{cocktail.cocktailPrice}}</td>
+                <td>{{cocktail.cocktailImg}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
