@@ -1,0 +1,16 @@
+[{
+    "cocktailName": "Mojito",
+    "cocktailPrice": "7",
+    "cocktailImg": "https://www.liquor.com/thmb/csP0nbraWhDYbHvQ8BmitxfIJYs=/735x0/mojito-720x720-primary-6a57f80e200c412e9a77a1687f312ff7.jpg"
+},
+ {
+    "cocktailName": "Margarita",
+    "cocktailPrice": "8",
+    "cocktailImg": "https://www.tastyaz.com/wp-content/uploads/2022/03/Frozen-Strawberry-Margarita-2.jpg"
+},
+
+ {
+    "cocktailName": "Cosmopolitan",
+    "cocktailPrice": "9",
+    "cocktailImg": "https://amandascookin.com/wp-content/uploads/2021/05/Cosmopolitan-Cocktail-RC.jpg"
+}]
